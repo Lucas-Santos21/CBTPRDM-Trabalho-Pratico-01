@@ -1,4 +1,8 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿//Nome e prontuário da dupla:
+//Lucas da Silva Santos CB3030598
+//Kaueh Farias Ferreira dos Santos CB3031438
+
+using Microsoft.Extensions.DependencyInjection;
 
 namespace CBTPRDM.TP01
 {

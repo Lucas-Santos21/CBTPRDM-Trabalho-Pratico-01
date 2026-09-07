@@ -1,4 +1,8 @@
-﻿namespace CBTPRDM.TP01
+﻿//Nome e prontuário da dupla:
+//Lucas da Silva Santos CB3030598
+//Kaueh Farias Ferreira dos Santos CB3031438
+
+namespace CBTPRDM.TP01
 {
     public partial class MainPage : ContentPage
     {
