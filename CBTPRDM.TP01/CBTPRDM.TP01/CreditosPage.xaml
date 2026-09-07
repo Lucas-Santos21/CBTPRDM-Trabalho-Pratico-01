@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CBTPRDM.TP01.CreditosPage"
+             Title="Créditos do App">
+
+    <VerticalStackLayout VerticalOptions="Center" HorizontalOptions="Center" Spacing="15">
+        <Label Text="Desenvolvido por:" FontSize="20" HorizontalOptions="Center"/>
+
+        <Label Text="Lucas Santos - CB3030598S" FontSize="26" FontAttributes="Bold" HorizontalOptions="Center"/>
+        <Label Text="Kaueh Farias - CB3031438" FontSize="26" FontAttributes="Bold" HorizontalOptions="Center"/>
+        <Label Text="ADS" FontSize="16" HorizontalOptions="Center"/>
+
+        <Button Text="Voltar para o Início" Clicked="OnVoltarClicked" WidthRequest="200" Margin="0,30,0,0"/>
+    </VerticalStackLayout>
+</ContentPage>
